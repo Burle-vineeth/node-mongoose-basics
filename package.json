@@ -1,0 +1,18 @@
+{
+  "name": "funny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.22"
+  }
+}

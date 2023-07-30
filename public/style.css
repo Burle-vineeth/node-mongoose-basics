@@ -1,0 +1,11 @@
+.fluid a{
+    display: inline-block;
+    padding: 15px 20px;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+}
+
+.fluid a:hover {
+    background-color: gray;
+}
